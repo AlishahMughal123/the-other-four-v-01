@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/the-other-four-v-01/precache-manifest.cc5f40e68def7cc3651e98fd205e8990.js"
+  "/the-other-four-v-01/precache-manifest.98ddf7b286efe36c330968e16e14683a.js"
 );
 
 workbox.clientsClaim();
